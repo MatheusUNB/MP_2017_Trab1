@@ -1,0 +1,11 @@
+Eu estava fazendo todo o programa como se o "\n" fosse uma string formada de 2 caracteres '\' e 'n'. Então converti tudo para entrar nas especificações do trabalho, porém não deu muito certo, porque só retorna -1 não sei por qual motivo.
+
+O arquivo "trab.c" está funcionando, porém é com "\n" caracteres.
+
+Se compilá-lo verá funcionando no terminal.
+
+Apliquei os testes com outros exemplos que criei durante o trabalho. Acredito que entendi a maioria dos requisitos mas no fim algo não deu certo.
+
+Faltou fazer overflow.
+
+
